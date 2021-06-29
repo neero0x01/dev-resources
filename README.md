@@ -20,6 +20,9 @@
 ### Refactoring
   - [Refactoring and Design Patterns Guide](https://refactoring.guru)
 
+### Challenges
+  - [Confused what to build? Try Dev Challenges](https://devchallenges.io)
+
 ### Soft Skills
   - [A podcast series about soft skills](https://softskills.audio)
 
