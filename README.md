@@ -10,6 +10,13 @@
   - [A set of cool tools with few generators](https://omatsuri.app)
   - [Another cool one for generating CSS animation](https://animista.net)
 
+### Free Stock Images:
+  - [Pexels](https://www.pexels.com)
+  - [Unsplash](https://unsplash.com)
+
+### Full Stack
+  - [HowToGraphQL](https://www.howtographql.com)
+
 ### Refactoring
   - [Refactoring and Design Patterns Guide](https://refactoring.guru)
 
