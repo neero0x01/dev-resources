@@ -22,6 +22,15 @@
 
 ### Challenges
   - [Confused what to build? Try Dev Challenges](https://devchallenges.io)
+  - [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io)
+
+### Icons
+  - [Phosphor Icons](https://phosphoricons.com)
+  - [Bootstrap Icons](https://icons.getbootstrap.com)
+  - [Font Awesome Icons](https://fontawesome.com)
+
+### Illustrations
+  - [Open Source illustrations](https://undraw.co/illustrations)
 
 ### Soft Skills
   - [A podcast series about soft skills](https://softskills.audio)
